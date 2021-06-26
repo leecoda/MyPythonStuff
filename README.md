@@ -1,1 +1,1 @@
-This repertoire is for my python codes.
+This repertoire is for the python codes written in a Udemy python course.
